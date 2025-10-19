@@ -4,7 +4,9 @@ Descripción
 Sistema automatizado para generar certificados digitales para el evento internacional SILVOPAT 2025. Genera certificados en PDF a partir de archivos Excel.
 
 Estructura del Proyecto
+
 generador_certificados/
+
 ├── 📁 plantillas_certificados/
 │   ├── 🖼️ Plantilla Certificado_Trabajos_page-0001.jpg
 │   └── 🖼️ Plantilla Certificado_participacion.jpg
