@@ -68,11 +68,15 @@ Para Certificados de Participación:
   python generar_certificados_participacion.py
 
 Formatos de Excel Requeridos
+
   Certificados de Trabajos (participantes.xlsx):
-    nombre,participacion,titulo
+      nombre,participacion,titulo
+      
     Ana García,conferencista,Tecnología aplicada a sistemas...
+    
     Carlos López,presentación oral,Análisis comparativo...
   Certificados de Participación (participantes_participacion.xlsx):
+  
     nombre,participacion
     María Rodríguez,Delegado
     Juan Pérez,Comité Organizador
