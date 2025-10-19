@@ -8,18 +8,31 @@ Estructura del Proyecto
 generador_certificados/
 
 ├── 📁 plantillas_certificados/
+
 │   ├── 🖼️ Plantilla Certificado_Trabajos_page-0001.jpg
+
 │   └── 🖼️ Plantilla Certificado_participacion.jpg
+
 ├── 📁 certificados_trabajos_sin_generar/
+
 │   └── 📊 participantes.xlsx
+
 ├── 📁 certificados_trabajos_generados/
+
 │   └── 📄 Certificados generados (PDF)
+
 ├── 📁 certificados_participacion_sin_generar/
+
 │   └── 📊 participantes_participacion.xlsx
+
 ├── 📁 certificados_participacion_generados/
+
 │   └── 📄 Certificados generados (PDF)
+
 ├── 🐍 generar_certificados_trabajos.py
+
 ├── 🐍 generar_certificados_participacion.py
+
 └── 📖 README.md
 
 Instalación Rápida
@@ -36,10 +49,15 @@ Instalación Rápida
 
 3- Configurar carpetas
   mkdir plantillas_certificados
+  
   mkdir certificados_trabajos_sin_generar
+  
   mkdir certificados_trabajos_generados
+  
   mkdir certificados_participacion_sin_generar
+  
   mkdir certificados_participacion_generados
+  
 
 Uso Rápido
 
